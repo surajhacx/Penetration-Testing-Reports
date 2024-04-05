@@ -1,5 +1,3 @@
-Penetration Testing README
-
 Welcome to the Penetration Testing README!
 
 Purpose
